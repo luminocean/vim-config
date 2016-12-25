@@ -10,7 +10,7 @@ Run the following commands:
 # install Vundle
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
-# CLONE THE REPO AND COPY .vimrc to your home folder
+# clone this repo and copy .vimrc to your home folder
 # ...
 
 vim # and inside VIM run :PluginInstall to install all the plugins

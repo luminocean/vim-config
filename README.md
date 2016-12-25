@@ -1,8 +1,8 @@
 # Installation
 
 Make sure you have a recent VIM build 
-> needs to be later that 7.4.45 since YouCompleteMe relys on it
-> if you are using Mac, the vim might be quite old. 
+> Needs to be later that 7.4.45 since YouCompleteMe relys on it.
+> If you are using Mac, the vim might be quite old.
 > A clever choice is to install a MacVim and alias the console app comes with it to 'vim' 
 
 Run the following commands:

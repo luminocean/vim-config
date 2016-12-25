@@ -13,8 +13,6 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
 " support for NERDTree tabs
 Plugin 'jistr/vim-nerdtree-tabs'
-" auto complete facility
-Plugin 'Valloric/YouCompleteMe'
 " open a file rapidly by entering part of the file name
 " - use <C-p> to open the search box 
 Plugin 'kien/ctrlp.vim'
@@ -28,6 +26,8 @@ Plugin 'vim-airline/vim-airline'
 " - use <C-c>g to go to code definition
 " - use <C-c>rr to refactor code
 Plugin 'python-mode/python-mode'
+" auto complete facility
+Plugin 'Valloric/YouCompleteMe'
 
 call vundle#end()
 filetype plugin indent on
